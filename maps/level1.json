@@ -1,0 +1,257 @@
+{
+  "name": "Map1",
+  "description": [
+    "Comments: ",
+    "...",
+    "...",
+    "..."
+  ],
+  "dimensions": [5000,3200],
+  "objects":
+  [
+    {
+      "id": 0,
+      "description": "",
+      "health": 100,
+      "colour": "white",
+      "pos": [120,120],
+      "size": [1005,20]
+    },
+    {
+      "id": 1,
+      "info": "Opening doorway",
+      "colour": "white",
+      "pos": [120,140],
+      "size": [20,20]
+    },
+    {
+      "id": 2,
+      "colour": "white",
+      "pos": [120,280],
+      "size": [20,1570]
+    },
+    {
+      "id": 3,
+      "colour": "white",
+      "pos": [1120,120],
+      "size": [20,500]
+    },
+    {
+      "id": 4,
+      "colour": "white",
+      "pos": [120,300],
+      "size": [600,20]
+    },
+    {
+      "id": 5,
+      "colour": "white",
+      "pos": [590,600],
+      "size": [1300,20]
+    },
+    {
+      "id": 6,
+      "colour": "white",
+      "pos": [590,620],
+      "size": [20,100]
+    },
+    {
+      "id": 7,
+      "colour": "white",
+      "pos": [700,620],
+      "size": [20,70]
+    },
+    {
+      "id": 8,
+      "colour": "white",
+      "pos": [800,620],
+      "size": [20,70]
+    },
+    {
+      "id": 9,
+      "colour": "white",
+      "pos": [900,620],
+      "size": [20,220]
+    },
+    {
+      "id": 10,
+      "colour": "white",
+      "pos": [1050,620],
+      "size": [20,100]
+    },
+    {
+      "id": 11,
+      "colour": "white",
+      "pos": [1125,840],
+      "size": [20,100]
+    },
+    {
+      "id": 12,
+      "colour": "white",
+      "pos": [1200,620],
+      "size": [20,100]
+    },
+    {
+      "id": 13,
+      "colour": "white",
+      "pos": [1275,840],
+      "size": [20,100]
+    },
+    {
+      "id": 14,
+      "colour": "white",
+      "pos": [1350,620],
+      "size": [20,100]
+    },
+    {
+      "id": 15,
+      "colour": "white",
+      "pos": [1425,840],
+      "size": [20,100]
+    },
+    {
+      "id": 16,
+      "colour": "white",
+      "pos": [1670,790],
+      "size": [20,150]
+    },
+    {
+      "id": 17,
+      "colour": "white",
+      "pos": [1670,790],
+      "size": [80,20]
+    },
+    {
+      "id": 18,
+      "colour": "white",
+      "pos": [1850,790],
+      "size": [60,20]
+    },
+    {
+      "id": 19,
+      "colour": "white",
+      "pos": [1890,600],
+      "size": [20,200]
+    },
+    {
+      "id": 20,
+      "colour": "white",
+      "pos": [590,840],
+      "size": [20,100]
+    },
+    {
+      "id": 21,
+      "colour": "white",
+      "pos": [590,940],
+      "size": [1430,20]
+    },
+    {
+      "id": 22,
+      "colour": "white",
+      "pos": [750,960],
+      "size": [20,170]
+    },
+    {
+      "id": 23,
+      "colour": "white",
+      "pos": [750,1250],
+      "size": [20,190]
+    },
+    {
+      "id": 24,
+      "colour": "white",
+      "pos": [500,1420],
+      "size": [20,420]
+    },
+    {
+      "id": 25,
+      "colour": "white",
+      "pos": [500,1420],
+      "size": [1720,20]
+    },
+    {
+      "id": 26,
+      "colour": "white",
+      "pos": [2000,940],
+      "size": [20,120]
+    },
+    {
+      "id": 27,
+      "health": 20,
+      "colour": "grey",
+      "pos": [2000,1060],
+      "size": [20,200]
+    },
+    {
+      "id": 28,
+      "colour": "white",
+      "pos": [2000,1260],
+      "size": [200,20]
+    },
+    {
+      "id": 29,
+      "colour": "white",
+      "pos": [2200,1260],
+      "size": [20,50]
+    },
+    {
+      "id": 30,
+      "colour": "white",
+      "pos": [2200,1400],
+      "size": [20,20]
+    },
+    {
+      "id": 31,
+      "colour": "white",
+      "pos": [500,1840],
+      "size": [300,20]
+    },
+    {
+      "id": 32,
+      "colour": "white",
+      "pos": [0,1840],
+      "size": [140,20]
+    },
+    {
+      "id": 33,
+      "colour": "white",
+      "pos": [780,1840],
+      "size": [20,630]
+    },
+    {
+      "id": 34,
+      "colour": "white",
+      "pos": [220,1950],
+      "size": [400,400]
+    },
+    {
+      "id": 35,
+      "colour": "white",
+      "pos": [220,2450],
+      "size": [800,20]
+    },
+    {
+      "id": 36,
+      "colour": "white",
+      "pos": [220,2450],
+      "size": [20,500]
+    },
+    {
+      "id": 37,
+      "colour": "white",
+      "pos": [220,2950],
+      "size": [200,20]
+    },
+    {
+      "id": 38,
+      "colour": "white",
+      "pos": [520,2950],
+      "size": [500,20]
+    },
+    {
+      "id": 39,
+      "colour": "white",
+      "pos": [1020,2950],
+      "size": [20,500]
+    }
+  ]
+}
