@@ -1,0 +1,45 @@
+Next-
+  - add enemies ✓
+  - add damage to enemies from bullet ✓
+  = bullet collisions ✓
+  - refactor code ?
+  - decontaminate global scope ?
+  - encapsulate code in class ?
+  - create simple map ✓
+  - add collisions ✓
+  - create camera and add map scrolling ✓
+  - simple mp in websockets
+
+
+Intermediary-
+  - Make stuff look better
+  - add sprites to map
+  - get/create gun assets
+  - sort server shit
+
+
+Final-
+  -Multiplayer (maybe campaign - probably not)
+  -Features:
+     - Lighting system where it is dark on the other side of wall so you cannot see through walls
+     - Most maps will be indoors so maybe add lights
+     - player
+        - soldier sprite
+        - customisation
+        - simple walking animation
+        - simple sprite direction changes (n,s,e,w)
+     - decent size Maps, with sprites and stuff, bigger than an arena
+     - classes (maybe havent fully figured it out yet)
+     - loadout (weapons, ordinance, grenades and gadgets)
+        - weapons
+          - primary and secondary
+          - knife - 2 hit melee
+          - ARs, SMGs, Shotguns, Snipers etc
+          - snipers will enable you to see longer distances and scroll more of the map with the camera,
+          when it is a long corridor
+        - gadgets
+          - NV (maybe)
+          - heartbeat sensor
+          - medpack
+          - ammopack
+          - defib
